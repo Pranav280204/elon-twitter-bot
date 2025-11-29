@@ -1,0 +1,1 @@
+worker: python elon_telegram_bot.py
